@@ -1,6 +1,6 @@
 ***getting to know some WIN viruses***
 
-## **WinNT. Explorador remoto.**
+## **WinNT. Explorador remoto**
 Descoberto em 17 de dezembro de 1998, o Remote Explorer foi o primeiro vírus a se carregar como um serviço do Windows NT e o primeiro a roubar os direitos de segurança de um administrador para se espalhar . Acredita-se que tenha sido libertado por um funcionário descontente, o Remote Explorer atacou a rede global da MCI WorldCom.
 
 ## **WinNT.Infis**
